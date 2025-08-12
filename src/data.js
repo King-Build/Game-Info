@@ -1,0 +1,1 @@
+export const navbarList = ['Last Games', 'Rating Games', 'Popular Games'];
