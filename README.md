@@ -1,12 +1,24 @@
-# React + Vite
+# 🎮 Game Info Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🔎 Overview  
+An interactive and stylish **Game Information Website** built with **React** and **Tailwind CSS**.  
+The app fetches real-time **game data** from external APIs using **Axios** and presents them in a clean, card-based layout.  
+Users can browse popular games, see ratings, release dates, and detailed descriptions in a fully responsive interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Technologies Used  
+- React.js + Vite  
+- Tailwind CSS  
+- JavaScript (Axios for API calls)  
+- External Game API (RAWG.io or similar)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshot  
+[![Screenshot](https://i.postimg.cc/BbkNxZRB/Screenshot-2025-08-12-at-09-04-03.png)](https://postimg.cc/PvbmHHXC)
+
+---
+
+## 🌐 Live Demo  
+👉 <a href="https://games-infos.netlify.app" target="_blank">View Live</a>  
