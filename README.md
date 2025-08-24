@@ -24,5 +24,7 @@ Users can browse popular games, see ratings, release dates, and detailed descrip
 <h2>
 
 ![handPointRight](https://readmecodegen.vercel.app/api/social-icon?name=handPointRight&size=20&animation=glow)
-<a href="=https://games-infos.netlify.app/" target="_blank">Live Demo</a>  
+<a href="https://games-infos.netlify.app/" target="_blank">Live Demo</a> 
 </h2>
+
+
